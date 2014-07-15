@@ -1,0 +1,17 @@
+body{
+    background-color: #ddd;
+    text-align:center;
+}
+
+
+#main{
+    width: 960px;
+    height: 1600px;
+    margin: 10px auto auto;
+    padding: 30px;
+    margin: 0 auto;
+    background: #ffffff;
+    border-radius: 5px;
+    opacity: 0.9;
+}
+

@@ -1,0 +1,18 @@
+body{
+    background: url("../images/login-bg.gif") no-repeat center;
+}
+
+#login-dialog{
+    width: 600px;
+    margin: 150px auto 0;
+    *margin-right:100px;
+    padding: 30px;
+    background: #ffffff;
+    border-radius: 5px;
+    opacity: 0.9;
+}
+#title {
+    float: left;
+    margin-top:250px;
+    *margin-left: 100px;
+}

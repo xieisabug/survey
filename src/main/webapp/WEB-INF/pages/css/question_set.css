@@ -1,0 +1,16 @@
+body {
+    background: #ddd;
+    *text-align: center;
+}
+#set-panel {
+    background: #ffffff;
+    width:960px;
+    height: 100%;
+    margin: 0 auto;
+    padding: 40px;
+    text-align: center;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, .5)
+}
+.question{
+    margin-bottom: 40px;
+}

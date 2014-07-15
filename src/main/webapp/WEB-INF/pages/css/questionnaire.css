@@ -1,0 +1,59 @@
+body {
+    background: #ddd;
+    *text-align: center;
+}
+#paper {
+    width: 960px;
+    background: #ffffff;
+    height: 100%;
+    padding: 30px;
+    margin: 0 auto;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, .5);
+    *text-align: left;
+}
+#question-person-info {
+    text-align: left;
+    margin-left: -20px;
+}
+#question-person-info label{
+    margin-left: 20px;
+}
+.answer {
+    margin: 5px 10px;
+}
+.answer label{
+    margin: 5px 10px;
+}
+.answer label span{
+    margin-left: 10px;
+    font-weight: normal;
+}
+.answer button {
+    *width: 80px;
+    *height: 33px;
+    float: right;
+    *float: none;
+    *margin-left:300px;
+}
+.question {
+    font-size: 20px;
+    margin-top: 40px;
+    font-weight: bold;
+}
+.feedback-input {
+    margin-top: 10px;
+}
+.feedback-input input {
+    *width: 720px;
+}
+#submit {
+    text-align: center;
+    margin-top: 50px;
+}
+.ie-button{
+    *width: 54px;
+    *height:34px;
+}
+.toRight{
+	text-align: right;
+}
